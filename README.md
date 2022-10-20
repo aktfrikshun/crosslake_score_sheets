@@ -37,10 +37,10 @@ The proposed solution has been decomposed into 4 model objects and 2 service obj
 
 ## Technical Details & Dependencies
 
-Ruby Version: 3.1
-Rails Version: 7.0
-Persistance: SqlLite
-TestFramework: rspec
+- Ruby Version: 3.1
+- Rails Version: 7.0
+- Persistance: SqlLite
+- TestFramework: rspec
 
 ## Development environment setup
 

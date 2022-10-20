@@ -1,0 +1,26 @@
+REPORT R1 
+Track T1 R1 Architecture
+Indicator I1 T1 99 1
+Indicator I2 T1 67 5
+Track T2 R1 SDLC
+Indicator I3 T2 57 1
+Indicator I4 T2 42 4
+Indicator I5 T2 78 2
+Indicator I6 T2 90 2
+Track T3 R1 Security
+Indicator I7 T3 81 1
+Indicator I8 T3 55 3
+Indicator I9 T3 88 1
+
+REPORT R2
+Track T4 R2 DevOps
+Track T5 R2 Cloud
+Track T6 R2 Data
+Indicator I10 T4 99 1
+Indicator I12 T5 67 5
+Indicator I14 T6 42 4
+Indicator I15 T4 78 2
+Indicator I16 T4 90 2
+Indicator I17 T5 81 1
+Indicator I18 T6 55 3
+Indicator I19 T4 88 1

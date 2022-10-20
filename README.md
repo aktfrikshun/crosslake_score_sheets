@@ -13,7 +13,7 @@ It is possible to satisfy the requirments of this solution by reading the input 
 However, given that we expect the solution to be production ready code similar to what we might write during our day to day, my approach was to develop something somewhat more robust and scalable
 
 To that end I chose the following:
-* That the solution should be devloped in a Ruby on Rails application ( to leverage gems such as standardrb and rspec as well as features such as model validations )
+* That the solution should be developed in a Ruby on Rails application ( to leverage gems such as standardrb and rspec as well as features such as model validations )
 * That the generated report should be persisted ( In an production environment I expect the reports to be saved and trending analysis to be performed over time )
 
 Along with the above stiplulated design choices, the following assumptions were made:

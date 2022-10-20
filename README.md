@@ -55,7 +55,7 @@ The proposed solution has been decomposed into 4 model objects and 2 service obj
 To run a report you can utilize the Rails Runner as follows:
 > rails r "ScoreReport.generate('FrikShun',Rails.root.join('spec','test_files','score_sample.txt').to_s)"
 
-*Note:  The 2nd parameter of ScoreReport.generate can be a path to any valid input file
+*Note:  The 2nd parameter of ScoreReport.generate can be a path to any valid input file.  The 1st param is a company name and can be anything.
 
 
 ## Tests

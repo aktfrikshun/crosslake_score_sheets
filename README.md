@@ -44,7 +44,7 @@ The proposed solution has been decomposed into 4 model objects and 2 service obj
 
 ## Development environment setup
 
-1) clone project at git@github.com:aktfrikshun/crosslinks_score_sheet.git
+1) clone project at git@github.com:aktfrikshun/crosslake_score_sheets.git
 2) cd project folder
 3) bundle install
 4) rails db:setup

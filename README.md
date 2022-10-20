@@ -1,6 +1,6 @@
-# CrossLinks Score Sheets
+# CrossLake Score Sheets
 
-This application is a solution to the Crosslinks Ruby Engineer new hire assessment.
+This application is a solution to the CrossLake Ruby Engineer new hire assessment.
 
 The problem stated succinctly follows:
 

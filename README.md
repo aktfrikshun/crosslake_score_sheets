@@ -54,14 +54,6 @@ TestFramework: rspec
 
 To run a report you can utilize the Rails Runner as follows:
 > rails r "ScoreReport.generate('FrikShun',Rails.root.join('spec','test_files','score_sample.txt').to_s)"
-Report R1 Overall Score: 66.67
-Track T1 Score: 72.0
-Track T2 Score: 62.0
-Track T3 Score: 66.0
-Report R2 Overall Score: 67.67
-Track T4 Score: 87.0
-Track T5 Score: 69.0
-Track T6 Score: 47.0
 
 *Note:  The 2nd parameter of ScoreReport.generate can be a path to any valid input file
 
